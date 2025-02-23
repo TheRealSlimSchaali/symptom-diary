@@ -2,9 +2,9 @@
   "domain": "symptom_diary",
   "name": "Symptom Diary",
   "version": "1.0",
-  "documentation": "https://www.example.com",
+  "documentation": "https://github.com/TheRealSlimSchaali/symptom-diary",
   "requirements": [],
   "dependencies": [],
-  "codeowners": [],
+  "codeowners": ["@TheRealSlimSchaali"],
   "iot_class": "local_polling"
 }

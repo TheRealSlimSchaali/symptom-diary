@@ -23,7 +23,7 @@ The **Symptom Diary** custom component for Home Assistant allows you to track fe
    - Open HACS in your Home Assistant interface.
    - Go to the "Integrations" tab.
    - Click on the three dots in the top right corner and select "Custom repositories".
-   - Enter the following URL: `https://github.com/yourusername/symptom_diary` and select "Integration" as the category.
+   - Enter the following URL: `https://github.com/TheRealSlimSchaali/symptom-diary/tree/main/symptom_diary` and select "Integration" as the category.
    - Click "Add".
 
 2. **Install the Component**:
