@@ -1,7 +1,7 @@
 {
   "domain": "symptom_diary",
   "name": "Symptom Diary",
-  "version": "0.1",
+  "version": "0.1.1",
   "documentation": "https://github.com/TheRealSlimSchaali/symptom-diary",
   "integration_type": "helper",
   "requirements": [],
