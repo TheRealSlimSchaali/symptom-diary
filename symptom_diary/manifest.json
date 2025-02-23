@@ -1,0 +1,10 @@
+{
+  "domain": "symptom_diary",
+  "name": "Symptom Diary",
+  "version": "1.0",
+  "documentation": "https://www.example.com",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [],
+  "iot_class": "local_polling"
+}
