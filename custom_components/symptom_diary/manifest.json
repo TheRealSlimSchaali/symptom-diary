@@ -1,9 +1,10 @@
 {
   "domain": "symptom_diary",
   "name": "Symptom Diary",
-  "version": "0.1",
-  "documentation": "https://github.com/TheRealSlimSchaali/symptom-diary",
-  "integration_type": "entity",
   "codeowners": ["@TheRealSlimSchaali"],
-  "iot_class": "local_polling"
+  "dependencies": [],
+  "documentation": "https://github.com/TheRealSlimSchaali/symptom-diary",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "0.1.0"
 }
